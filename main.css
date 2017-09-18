@@ -1,0 +1,29 @@
+* {
+	background-color: #ffffcc;
+}
+
+main {
+	margin: 30px;
+}
+
+h2  {
+	color:  grey ;
+}
+
+div#test {
+	border: #000 1px solid;
+	padding: 10px 40px 40px 40px;
+	width: 30%;
+}
+
+h3#status {
+	color: grey;
+	padding: 10px;
+}
+
+div#timer {
+	border: #000 1px solid;
+	margin: 40px;
+	width: 30%;
+}
+
